@@ -16,7 +16,7 @@ add repository config into your maven project pom.xml.
 
 ## repositories
 
-* ftp4j
+* [ftp4j](http://www.sauronsoftware.it/projects/ftp4j/)
 
 ```xml
 <dependency>
