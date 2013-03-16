@@ -25,3 +25,8 @@ add repository config into your maven project pom.xml.
     <version>1.7.2</version>
 </dependency>
 ```
+
+## references
+
+* [Hosting Maven Repos on Github](http://cemerick.com/2010/08/24/hosting-maven-repos-on-github/)
+* [Use github as maven remote repository](http://blog.rueedlinger.ch/2012/09/use-github-as-maven-remote-repository/)
