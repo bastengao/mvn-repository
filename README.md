@@ -25,6 +25,15 @@ add repository config into your maven project pom.xml.
     <version>1.7.2</version>
 </dependency>
 ```
+* [jsmpp](https://code.google.com/p/jsmpp/)
+
+```xml
+<dependency>
+    <groupId>com.googlecode.jsmpp</groupId>
+    <artifactId>jsmpp</artifactId>
+    <version>2.1.0-UO</version>
+</dependency>
+```
 
 ## references
 

@@ -1,0 +1,50 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>com.googlecode.jsmpp</groupId>
+    <artifactId>jsmpp</artifactId>
+    <packaging>jar</packaging>
+    <version>2.1.0-UO</version>
+    <name>JSMPP</name>
+    <url>https://code.google.com/p/jsmpp/</url>
+    <description>
+        Version 2.1.0 jar is not the same with official java sources in central maven repository.
+        We rebuild UnOfficial(UO) version, but be the same witch official java sources.
+    </description>
+    <licenses>
+        <license>
+            <name>The Apache Software License, Version 2.0</name>
+            <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+            <distribution>repo</distribution>
+        </license>
+    </licenses>
+    <scm>
+        <url>http://jsmpp.googlecode.com/svn/trunk/</url>
+        <connection>http://jsmpp.googlecode.com/svn/trunk/</connection>
+    </scm>
+    <developers>
+        <developer>
+            <id>shantanu.kumar</id>
+            <name>Shantanu Kumar</name>
+            <email>kumar.sh...@gmail.com</email>
+        </developer>
+    </developers>
+
+    <dependencies>
+        <dependency>
+            <groupId>log4j</groupId>
+            <artifactId>log4j</artifactId>
+            <version>1.2.14</version>
+        </dependency>
+        <dependency>
+            <groupId>org.slf4j</groupId>
+            <artifactId>slf4j-api</artifactId>
+            <version>1.4.3</version>
+        </dependency>
+        <dependency>
+            <groupId>org.slf4j</groupId>
+            <artifactId>slf4j-log4j12</artifactId>
+            <version>1.4.3</version>
+        </dependency>
+    </dependencies>
+</project>
