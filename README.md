@@ -25,6 +25,7 @@ add repository config into your maven project pom.xml.
     <version>1.7.2</version>
 </dependency>
 ```
+
 * [jsmpp](https://code.google.com/p/jsmpp/)
 
 ```xml
@@ -34,6 +35,18 @@ add repository config into your maven project pom.xml.
     <version>2.1.0-UO</version>
 </dependency>
 ```
+
+
+* [smslib](http://smslib.org/)
+
+```xml
+<dependency>
+    <groupId>org.smslib</groupId>
+    <artifactId>smslib</artifactId>
+    <version>v3.5.3</version>
+</dependency>
+```
+
 
 ## references
 

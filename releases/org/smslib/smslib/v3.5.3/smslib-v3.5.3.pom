@@ -1,0 +1,30 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>org.smslib</groupId>
+	<artifactId>smslib</artifactId>
+	<packaging>jar</packaging>
+	<version>v3.5.3</version>
+	<name>smslib</name>
+	<url>http://smslib.org/</url>
+	
+    <dependencies>
+        <dependency>
+            <groupId>com.googlecode.jsmpp</groupId>
+            <artifactId>jsmpp</artifactId>
+            <version>2.1.0-UO</version>
+        </dependency>
+
+        <dependency>
+            <groupId>org.bidib.jbidib.org.qbang.rxtx</groupId>
+            <artifactId>rxtxcomm</artifactId>
+            <version>2.2</version>
+        </dependency>
+
+        <dependency>
+            <groupId>commons-net</groupId>
+            <artifactId>commons-net</artifactId>
+            <version>2.0</version>
+        </dependency>
+    </dependencies>
+</project>
