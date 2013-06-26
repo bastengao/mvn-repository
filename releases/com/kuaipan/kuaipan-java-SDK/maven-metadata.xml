@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.kuaipan</groupId>
+  <artifactId>kuaipan-java-SDK</artifactId>
+  <versioning>
+    <release>0.2-beta</release>
+    <versions>
+      <version>0.2-beta</version>
+    </versions>
+    <lastUpdated>20130626153535</lastUpdated>
+  </versioning>
+</metadata>
