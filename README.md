@@ -48,6 +48,7 @@ add repository config into your maven project pom.xml.
 ```
 
 * [KPJavaSDK](https://github.com/KSkuaipan/KPJavaSDK)
+
 ```xml
 <dependency>
     <groupId>com.kuaipan</groupId>
