@@ -26,6 +26,16 @@ add repository config into your maven project pom.xml.
 </dependency>
 ```
 
+[ftp4j fixed](https://github.com/bastengao/ftp4j)
+
+```xml
+<dependency>
+    <groupId>it.sauronsoftware.ftp4j</groupId>
+    <artifactId>ftp4j</artifactId>
+    <version>1.7.2-fixed</version>
+</dependency>
+```
+
 * [jsmpp](https://code.google.com/p/jsmpp/)
 
 ```xml
