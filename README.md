@@ -68,6 +68,16 @@ add repository config into your maven project pom.xml.
 ```
 
 
+* [UCanAccess](http://ucanaccess.sourceforge.net/site.html)
+
+```xml
+<dependency>
+    <groupId>net.ucanaccess</groupId>
+    <artifactId>ucanaccess</artifactId>
+    <version>2.0.9.3</version>
+</dependency>
+```
+
 ## references
 
 * [Hosting Maven Repos on Github](http://cemerick.com/2010/08/24/hosting-maven-repos-on-github/)
